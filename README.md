@@ -1,6 +1,8 @@
 # DXVoron-2.4 - printer & material station
+<a href="url"><img src="./Images/Rendered/DXVoron_front.png" width="600" ></a>
 
 # Printer
+<a href="url"><img src="./Images/DXvoron.jpg" width="600" ></a>
 # Main electronics
 
 - SKR 1.4 x2
@@ -25,13 +27,12 @@ I ended up modifying lots of components on this machine:
 - [Ramalama2 Front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
 - [Voron 2.4 GE5C Z joint](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C)
 - [Kinematic Bed](https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed)
-#
+
 - [Decontaminator Purge Bucket & Nozzle Scrubber](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) - comming soon
 - [Nevermore v5 duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo/V2) - comming soon
 
+# Material station - Comming soon
+<a href="url"><img src="./Images/Rendered/DXVoron_materialstation.png" width="600" ></a>
 
-# Material station
-Comming soon
-
-
+#
 You can reach out in Voron Discord: i'm **Dex#1669**
